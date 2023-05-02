@@ -3,7 +3,7 @@ import {BrowserRouter, Routes,Route} from 'react-router-dom';
 import Inicio from './screens/Inicio';
 import SobreNos from './screens/SobreNos';
 import NaoEncontrado from './screens/NaoEncontrado';
-import Menu from './components/Menu';
+import Menu from './components/Menu/Menu';
 export default function App() {
   return (
     <BrowserRouter>
