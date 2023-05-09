@@ -1,0 +1,18 @@
+.container{
+ width: 100vw;
+ background-color: rgb(218, 215, 215);
+ display: flex;
+ justify-content: center;
+ gap:1rem;
+ height: 2rem;
+ align-items: center;
+ font-size: 1.5rem;
+}
+
+.link{
+text-decoration: none;
+}
+
+.linkDestacado{
+text-decoration: underline;
+}
