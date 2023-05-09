@@ -5,7 +5,7 @@ export default function Menu() {
   return (
     <div className={estilo.container}>
       <Menulink to={'/'}> Home </Menulink>   
-      <Menulink to={'sobrenos'}> Sobrenos </Menulink>
+      <Menulink to={'/sobrenos'}> Sobrenos </Menulink>
     </div>
   )
 }
